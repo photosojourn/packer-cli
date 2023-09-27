@@ -1,11 +1,11 @@
-#packer-cli
+# packer-cli
 
-##Development
+## Development
 
-###Requirements
+### Requirements
 This project makes use of the Poetry framework which handles dependencies etc. Installation guide for Poetry can be found here: https://python-poetry.org/docs/
 
-###Development process
+### Development process
 
 1. Clone Repo
 2. From the Repo root run `poetry install`
